@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Almujahid Jamion
 - 👀 I’m interested in Learning a little about anything
-- 🌱 I’m currently learning Illustrator Design, ASP.Net
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on big projects
 - 📫 Reach me through email estong.jamion@gmail.com
 

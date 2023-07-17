@@ -1,5 +1,3 @@
-Web Developer | Software Engineer | ReactJS Enthusiast
-
 👋 Hey there! I'm Almujahid Jamion, a passionate web developer and software engineer. My expertise lies in PHP, JavaScript, and ReactJS.
 
 💼 Currently, I'm actively building and contributing to exciting web projects. Check out my repositories and let's collaborate!

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning a little about anything
 - 🌱 I’m currently learning Nextjs, typescript
 - 💞️ I’m looking to collaborate on big projects
-- 📫 Reach me through email estong.jamion@gmail.com
+- 📫 Reach me through email almujahid.ibno.jamion@gmail.com
 
 <!---
 firemelon96/firemelon96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
